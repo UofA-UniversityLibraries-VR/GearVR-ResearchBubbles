@@ -67,3 +67,6 @@ DerivedDataCache/*
 *.swp
 *.swo
 .ctrlp_cache/
+
+# Starter Content
+Content/MobileStarterContent/*

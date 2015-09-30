@@ -5,7 +5,7 @@ Project Page
 ------------
 Developed by the University of Adelaide, University Libraries [VR Project](https://www.adelaide.edu.au/library/projects/vr/)
 
-Imgur gallery of [Blueprint code](http://imgur.com/a/MGjMl)
+Imgur gallery of [demo and Blueprint code](http://imgur.com/a/MGjMl)
 
 
 Description

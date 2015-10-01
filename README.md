@@ -1,4 +1,4 @@
-LibraryBoolean
+Research Bubbles
 ==============
 
 Project Page

@@ -3,7 +3,7 @@ Research Bubbles
 
 Project Page
 ------------
-Developed by the University of Adelaide, University Libraries [VR Project](https://www.adelaide.edu.au/library/projects/vr/)
+Developed by the University of Adelaide, University Libraries [VR Project](https://www.adelaide.edu.au/library/about/projects/vr/)
 
 Imgur gallery of [demo and Blueprint code](http://imgur.com/a/MGjMl)
 
